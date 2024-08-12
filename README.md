@@ -38,19 +38,13 @@ Ensure you have the following installed:
 - Python 3.x
 - Git
 
-### Installation
+### 🔥 Installation
 
-1. Clone the repository:
+  Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/task-tracker.git
+   git clone https://github.com/hamza-140/task-cli.git
    cd task-tracker
-   ```
-
-2. Run the CLI directly:
-
-   ```bash
-   python task-tracker.py
    ```
 
 ## 📘 Usage
